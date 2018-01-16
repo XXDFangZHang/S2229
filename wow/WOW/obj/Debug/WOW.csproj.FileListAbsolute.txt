@@ -1,0 +1,11 @@
+D:\Visual Studio 2012\项目\S2\第一章\WOW\WOW\bin\Debug\WOW.exe.config
+D:\Visual Studio 2012\项目\S2\第一章\WOW\WOW\bin\Debug\WOW.exe
+D:\Visual Studio 2012\项目\S2\第一章\WOW\WOW\bin\Debug\WOW.pdb
+D:\Visual Studio 2012\项目\S2\第一章\WOW\WOW\obj\Debug\WOW.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\项目\S2\第一章\WOW\WOW\obj\Debug\WOW.FrmLogin.resources
+D:\Visual Studio 2012\项目\S2\第一章\WOW\WOW\obj\Debug\WOW.FrmMain.resources
+D:\Visual Studio 2012\项目\S2\第一章\WOW\WOW\obj\Debug\WOW.FrmRegist.resources
+D:\Visual Studio 2012\项目\S2\第一章\WOW\WOW\obj\Debug\WOW.Properties.Resources.resources
+D:\Visual Studio 2012\项目\S2\第一章\WOW\WOW\obj\Debug\WOW.csproj.GenerateResource.Cache
+D:\Visual Studio 2012\项目\S2\第一章\WOW\WOW\obj\Debug\WOW.exe
+D:\Visual Studio 2012\项目\S2\第一章\WOW\WOW\obj\Debug\WOW.pdb
